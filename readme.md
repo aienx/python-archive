@@ -1,7 +1,6 @@
 
 <h1 align="center">
   <br>
-	<img src="logo.png" alt="Logo" width="280" height="280">
   <br>
   Python Projects Archive
   <br>
@@ -9,11 +8,11 @@
 
 A repository if personally built Python projects and scritps. Each project has its own folder and README.md file with more detailed information. Below is a brief overview of each project.
 
-## Games : Snake / FlashCards / Turtle Crossing
+## Games : Snake / Ping Pong / Turtle Crossing  
 
 A collection of intuitive games and puzzles built in python. For more information, check out the [README.md](project1/README.md) file.
 
-## Destop Applications (TKINTER): Typeing Speed Tester / Image watermark App / Text to speech App / Student Study Time Scheduling APP
+## Destop Applications (TKINTER): Typing-Speed Tester / Image watermark App / Text to speech App / Python Pomodoro App
 
 A collection of destop apps built with the help of Python TKINTER GUI helper . For more information, check out the [README.md](project2/README.md) file.
 

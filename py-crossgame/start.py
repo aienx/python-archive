@@ -41,16 +41,3 @@ while game_state:
         
 
 wn.exitonclick()
-
-
-
-
-
-
-
-
-
-
-
-
-
