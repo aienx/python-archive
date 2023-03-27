@@ -18,7 +18,8 @@ Python Snake Game is a classic snake game built in Python using Pygame library. 
 
 ## Screenshots
 
-![Screenshot of Python Snake Game](/screenshots/screenshot.png "Python Snake Game")
+![Screenshot of Python Snake Game](https://github.com/aienx/python-archive/blob/main/py-snake/shot-one.png)
+![Screenshot of Python Snake Game](https://github.com/aienx/python-archive/blob/main/py-snake/shot-two.png)
 
 ## Credits
 
