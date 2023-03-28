@@ -20,7 +20,7 @@ The Python Pomodoro App is a time management tool built in Python that uses the 
 
 ## Screenshots
 
-![Screenshot of Python Watermark App](/screenshots/screenshot.png "Python Watermark App")
+![Screenshot of Python Watermark App](https://github.com/aienx/python-archive/blob/main/py-watermark/snap.png)
 
 ## Credits
 
