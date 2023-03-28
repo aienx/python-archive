@@ -23,9 +23,7 @@ A series os RESTFUL APis for websites and application integration. For more info
 ## Database : 
 
 
-
 ## Business : 
-
 
 
 ## Installation
@@ -36,7 +34,3 @@ To install and run any of these projects, clone this repository and navigate to 
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-
-
-

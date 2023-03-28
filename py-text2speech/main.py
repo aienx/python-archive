@@ -1,9 +1,9 @@
 import tkinter as tk
-import PyPDF2
+#import PyPDF2
 from PIL import Image, ImageTk
 from tkinter.filedialog import askopenfile
 # Module for text to speech conversion
-from gtts import gTTS
+#from gtts import gTTS
 
 root = tk.Tk()
 
