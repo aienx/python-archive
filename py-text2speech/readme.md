@@ -20,7 +20,7 @@ Python Text-to-Speech App is a Python-based app that converts text to speech usi
 
 ## Screenshots
 
-![Screenshot of Python Text-to-Speech App](/screenshots/screenshot.png "Python Text-to-Speech App")
+![Screenshot of Python Watermark App](https://github.com/aienx/python-archive/blob/main/py-text2speech/snap.png)
 
 ## Credits
 
