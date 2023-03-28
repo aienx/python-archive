@@ -20,7 +20,7 @@ Python Ping Pong Game is a classic ping pong game built in Python using Pygame l
 
 ## Screenshots
 
-![Screenshot of Python Ping Pong Game](/screenshots/screenshot.png "Python Ping Pong Game")
+![Screenshot of Python Ping Pong Game](https://github.com/aienx/python-archive/blob/main/py-pingpong/snap.png)
 
 ## Credits
 

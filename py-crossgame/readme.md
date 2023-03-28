@@ -25,8 +25,7 @@ Python Turtle Crossing Game is a classic arcade-style game built in Python using
 
 ## Screenshots
 
-![Screenshot of Python Turtle Crossing Game](/screenshots/screenshot.png "Python Turtle Crossing Game")
-
+![Screenshot of Python Turtle Crossing Game](https://github.com/aienx/python-archive/blob/main/py-crossgame/snap.png)
 ## Credits
 
 - Car and turtle assets: [OpenGameArt](https://opengameart.org/content/2d-turtle-pack)
