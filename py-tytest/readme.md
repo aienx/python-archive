@@ -20,7 +20,7 @@ The Typing Speed Test Python App is a simple and easy-to-use typing speed testin
 
 ## Screenshots
 
-![Screenshot of Python Watermark App](https://github.com/aienx/python-archive/blob/main/py-watermark/snap.png)
+![Screenshot of Python Watermark App](https://github.com/aienx/python-archive/blob/main/py-tytest/snap.png)
 
 ## Credits
 
