@@ -2,11 +2,11 @@
 A repository if personally built Python projects and scritps. Each project has its own folder and README.md file with more 
 detailed information.
 
-_For a more visually appealing experience for browsing the protfolio, check out cheffred.me._
+_For a more visually appealing experience for browsing the protfolio, check out website cheffred.me._
 
 - ## Python Games: 
   - ### Snake
-    A modifired python snake game where snake finds user input text (Name of Piece of Text).
+    A modified python snake game where snake finds user input text (Name of Piece of Text).
     <br>
     [Read More →](/python-games/py-snake)
   - ### Ping Pong 
@@ -29,7 +29,9 @@ _For a more visually appealing experience for browsing the protfolio, check out 
     [Read More →](/desktop-apps/py-pomodoro)
 
 - ## API (RESTFUL API) : 
-- Rain Meter API / 
-- Spotify Console API 
+  - ### Rain Meter API
+   [Read More →](/api/py-rainmeter)
+  - ### Spotify Console API
+   [Read More →](/api/py-spotifyconsole)
 
 
