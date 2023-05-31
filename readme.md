@@ -20,18 +20,24 @@ _For a more visually appealing experience for browsing the protfolio, check out 
 
 - ## Destop Apps: 
   - ### Typing-Speed Tester:
+    A simple typing speed checker with a Python GUI using tkinter.
     [Read More →](/desktop-apps/py-tytest)
   - ### Image watermark App:
+    An application that adds watermarks to images using Python.
     [Read More →](/desktop-apps/py-watermark)
   - ### Text to speech App:
+    An app that converts text into speech using Python.
     [Read More →](/desktop-apps/py-text2speech)
   - ### Python Pomodoro App
+    An application based on the Pomodoro technique for time management using Python.
     [Read More →](/desktop-apps/py-pomodoro)
 
-- ## API (RESTFUL API) : 
+- ## API (RESTFUL API): 
   - ### Rain Meter API
+   An API that provides rainfall data for a specific location using Python.
    [Read More →](/api/py-rainmeter)
   - ### Spotify Console API
+   An API integration with Spotify that allows console-like control of the music player using Python.
    [Read More →](/api/py-spotifyconsole)
 
 
