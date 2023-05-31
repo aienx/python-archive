@@ -4,11 +4,11 @@ detailed information.
 
 _For a more visually appealing experience for browsing the protfolio, check out cheffred.me._
 
-- ## Desktop Games: 
+- ## Python Games: 
   - ### Snake
     A modifired python snake game where snake finds user input text (Name of Piece of Text).
     <br>
-    [Python Archive →](htt)
+    [Python Archive →](./desktop-apps/snake)
   - ### Ping Pong 
     Classic Ping-Pong game built with python GUI tkinter.
     <br>
@@ -18,10 +18,19 @@ _For a more visually appealing experience for browsing the protfolio, check out 
     <br>
     [Python Archive →](https://github.com/aienx/python-archive)
 
-
-## Destop Applications (TKINTER): Typing-Speed Tester / Image watermark App / Text to speech App / Python Pomodoro App
-
-A collection of destop apps built with the help of Python TKINTER GUI helper . For more information, check out the [README.md](project2/README.md) file.
+- ## Destop Apps: 
+  - ### Typing-Speed Tester:
+    <br>
+    [Python Archive →](https://github.com/aienx/python-archive)
+  - ### Image watermark App:
+    <br>
+    [Python Archive →](https://github.com/aienx/python-archive)
+  - ### Text to speech App:
+    <br>
+    [Python Archive →](https://github.com/aienx/python-archive)
+  - ### Python Pomodoro App
+    <br>
+    [Python Archive →](https://github.com/aienx/python-archive)
 
 ## API (RESTFUL API) : Rain Meter API / Spotify Console API / Stocks API / Personal Quote API
 
