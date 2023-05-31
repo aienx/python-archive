@@ -1,16 +1,23 @@
+# Python Archive
+A repository if personally built Python projects and scritps. Each project has its own folder and README.md file with more 
+detailed information.
 
-<h1 align="center">
-  <br>
-  <br>
-  Python Projects Archive
-  <br>
-</h1>
+_For a more visually appealing experience for browsing the protfolio, check out cheffred.me._
 
-A repository if personally built Python projects and scritps. Each project has its own folder and README.md file with more detailed information. Below is a brief overview of each project.
+- ## Desktop Games: 
+  - ### Snake
+    A modifired python snake game where snake finds user input text (Name of Piece of Text).
+    <br>
+    [Python Archive →](htt)
+  - ### Ping Pong 
+    Classic Ping-Pong game built with python GUI tkinter.
+    <br>
+    [Python Archive →](https://github.com/aienx/python-archive)
+  - ### Turtle Crossing  
+    Python turtle crossing game built with python library GUI tkinter.
+    <br>
+    [Python Archive →](https://github.com/aienx/python-archive)
 
-## Games : Snake / Ping Pong / Turtle Crossing  
-
-A collection of intuitive games and puzzles built in python. For more information, check out the [README.md](project1/README.md) file.
 
 ## Destop Applications (TKINTER): Typing-Speed Tester / Image watermark App / Text to speech App / Python Pomodoro App
 
